@@ -79,3 +79,12 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+
+Survey questions
+1. What parts of the workshop today were awesome for your learning?
+  Getting into the afternoon when we were working together and getting the actual information on using GIT. It was better than the Treehouse prep because GIT was incorporated into the UNIX commands much earlier.
+2. What parts could be improved?  
+  Really long lunch without a lot going on.... Who has time for that, y'know? It would be good to have optional project work available for that time for people who don't really want to use the whole hour to run around and get food. I would've just worked on exercises instead of loafing around.
+3. On a scale of 1-10, how likely are you to recommend this class to a friend?
+ 8... it was a great class. 
